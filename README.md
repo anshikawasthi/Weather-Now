@@ -44,6 +44,6 @@ weather-now-project/
 
 
 ---
-Visit the URL shown ([ http://localhost:5173/](https://weather-now-react.vercel.app/)).
+Visit the URL shown (https://weather-now-react.vercel.app/).
 
 Visit the URL shown in the terminal (usually http://localhost:5173/).
